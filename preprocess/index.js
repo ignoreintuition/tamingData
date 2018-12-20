@@ -1,5 +1,5 @@
 // index.js
-// written as part of the data loves javascript article for ALA.
+// written as part of the Taming Data with JavaScript article for ALA.
 const fs = require('fs');
 var aggregateData = []; // aggregateData is where we are going to store the data after it is rolled up
 
